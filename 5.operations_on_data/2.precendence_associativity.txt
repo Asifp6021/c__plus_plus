@@ -1,0 +1,13 @@
+/*
+precedence and associativity is set of rule what to do when you have multiple operations.
+
+a+b*C-d/e-f+g
+
+precedence -> tells which operation to do first
+associativity -> which direction or which order. from the left or right.
+
+c++ has rule for it you can search on the google.
+
+you can use also use () to perform operation which you want to first.
+
+*/

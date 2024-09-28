@@ -1,0 +1,3 @@
+if data is lost as a result of your shifting bits left(<<) or right (>>) you can't get the data back just by doing the reverse operation You've just lost the data permanently.
+
+2.  bit shifting is only supported for integral like int, char....
